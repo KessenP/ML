@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kessen/miniconda3/envs/uab/lib/python3.9/site-packages",
+        "/home/kessen/miniconda3/lib/python3.11/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kessen/miniconda3/envs/uab/lib/python3.9/site-packages",
+        "/home/kessen/miniconda3/lib/python3.11/site-packages"
+    ]
+}
